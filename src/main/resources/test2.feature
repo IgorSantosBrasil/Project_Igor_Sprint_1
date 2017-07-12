@@ -1,4 +1,6 @@
-@Igor2
+
+#Replacing Given/When/ Then with Bullets
+
 Feature: Calculator - As a user I want to use a calculate
   So that I don't need to calculate myself
 
@@ -11,3 +13,4 @@ Feature: Calculator - As a user I want to use a calculate
     #Given
     #When
     #Then
+
