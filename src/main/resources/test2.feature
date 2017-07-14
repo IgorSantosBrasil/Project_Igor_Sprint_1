@@ -1,4 +1,3 @@
-
 #Replacing Given/When/ Then with Bullets
 
 Feature: Calculator - As a user I want to use a calculate
@@ -9,8 +8,9 @@ Feature: Calculator - As a user I want to use a calculate
     * I add 2 and 3
     * the result should be 5
 
-
     #Given
     #When
     #Then
 
+  #Background:
+  #    Given Set up "GenerateDocumentFromDocumentBody" request

@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(monochrome = true,
         tags = {"@Igor1"},
         features = "src/main/java/TestDefiniotions2/",
-        glue = {"CalculatorSteps"})
+        glue = {"TestDefiniotions2"})
 
 public class CucumberRun {
 
